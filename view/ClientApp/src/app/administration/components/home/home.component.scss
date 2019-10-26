@@ -1,0 +1,8 @@
+.panels {
+  display: flex;
+  align-items: center;
+
+  > .panel {
+    flex: 1;
+  }
+}

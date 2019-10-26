@@ -1,0 +1,63 @@
+<form [formGroup]="form" (submit)="save()">
+  <h1 mat-dialog-title>Add Copy of {{ data.name }}</h1>
+  <div mat-dialog-content>
+    <mat-form-field>
+      <mat-chip-list
+        #chipList
+        aria-label="Attribute selection"
+        formControlName="tags"
+      >
+        <mat-chip
+          *ngFor="let tag of form.get('tags').value; let idx = index"
+          [removable]="removable"
+          (removed)="remove(idx)"
+          [selectable]="selectable"
+        >
+          {{ tag }}
+          <mat-icon matChipRemove *ngIf="removable">cancel</mat-icon>
+        </mat-chip>
+        <input
+          placeholder="New tag..."
+          #attributeInput
+          formControlName="tagsControl"
+          [matChipInputFor]="chipList"
+          [matAutocomplete]="auto"
+          [matChipInputSeparatorKeyCodes]="separatorKeysCodes"
+          [matChipInputAddOnBlur]="addOnBlur"
+          (matChipInputTokenEnd)="add($event)"
+        />
+      </mat-chip-list>
+      <mat-autocomplete
+        autoActiveFirstOption
+        #auto="matAutocomplete"
+        (optionSelected)="selected($event)"
+      >
+        <mat-option *ngFor="let tag of filterTags | async" [value]="tags">
+          {{ tag }}
+        </mat-option>
+      </mat-autocomplete>
+    </mat-form-field>
+    <mat-form-field>
+      <input
+        matInput
+        type="date"
+        placeholder="Purchased"
+        formControlName="purchasedOn"
+      />
+    </mat-form-field>
+    <mat-form-field>
+      <input
+        matInput
+        type="number"
+        placeholder="Price Paid"
+        formControlName="pricePaid"
+      />
+    </mat-form-field>
+  </div>
+  <div mat-dialog-actions>
+    <button mat-raised-button [mat-dialog-close]>Cancel</button>
+    <button mat-raised-button type="submit" color="primary" cdkFocusInitial>
+      Add
+    </button>
+  </div>
+</form>

@@ -1,0 +1,18 @@
+mat-toolbar {
+  min-height: 4.5rem;
+  line-height: 3.8rem;
+
+  h3 {
+    flex: 1;
+  }
+
+  .profile-view {
+    @media screen and (max-width: 800px) {
+      display: none;
+    }
+  }
+
+  .toolbar-spacer {
+    flex: 1 0.5 auto;
+  }
+}

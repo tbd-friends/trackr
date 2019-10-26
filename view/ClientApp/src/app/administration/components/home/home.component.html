@@ -1,0 +1,23 @@
+<mat-toolbar>
+  <button
+    mat-raised-button
+    color="primary"
+    href="javascript:void(0)"
+    (click)="goBack()"
+  >
+    <mat-icon>keyboard_arrow_left</mat-icon><span>Back</span>
+  </button>
+  <span class="push-right"></span>
+</mat-toolbar>
+<div>
+  <div class="panels">
+    <app-add-system class="panel"></app-add-system>
+    <app-add-game class="panel"></app-add-game>
+  </div>
+  <div>
+    <app-list-all-games></app-list-all-games>
+  </div>
+  <div>
+    <app-add-many-games></app-add-many-games>
+  </div>
+</div>

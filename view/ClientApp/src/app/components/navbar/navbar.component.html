@@ -1,0 +1,17 @@
+<mat-toolbar color="primary">
+  <mat-toolbar-row>
+    <h3>Trackr</h3>
+    <button mat-icon-button [matMenuTriggerFor]="menu">
+      <mat-icon>menu</mat-icon>
+    </button>
+    <mat-menu #menu="matMenu">
+      <ng-container *appPermit="['administrator']">
+        <button mat-menu-item (click)="navigate('administration')">
+          <mat-icon>settings_application</mat-icon>
+          <span>Settings</span>
+        </button>
+        <hr />
+      </ng-container>
+    </mat-menu>
+  </mat-toolbar-row>
+</mat-toolbar>

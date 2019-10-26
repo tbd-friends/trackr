@@ -1,0 +1,1258 @@
+{
+  "156": {
+    "Id": 156,
+    "Abbreviation": null,
+    "alternative_name": null,
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "Thomson MO5"
+  },
+  "160": {
+    "Id": 160,
+    "Abbreviation": null,
+    "alternative_name": null,
+    "Category": 3,
+    "CreatedAt": 0,
+    "Name": "Nintendo eShop"
+  },
+  "123": {
+    "Id": 123,
+    "Abbreviation": null,
+    "alternative_name": null,
+    "Category": 5,
+    "CreatedAt": 0,
+    "Name": "WonderSwan Color"
+  },
+  "163": {
+    "Id": 163,
+    "Abbreviation": "Steam VR",
+    "alternative_name": null,
+    "Category": 0,
+    "CreatedAt": 0,
+    "Name": "SteamVR"
+  },
+  "44": {
+    "Id": 44,
+    "Abbreviation": "zod",
+    "alternative_name": null,
+    "Category": 5,
+    "CreatedAt": 0,
+    "Name": "Tapwave Zodiac"
+  },
+  "169": {
+    "Id": 169,
+    "Abbreviation": null,
+    "alternative_name": "Project Scarlett",
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "Xbox Project Scarlett"
+  },
+  "68": {
+    "Id": 68,
+    "Abbreviation": "colecovision",
+    "alternative_name": null,
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "ColecoVision"
+  },
+  "74": {
+    "Id": 74,
+    "Abbreviation": "Win Phone",
+    "alternative_name": null,
+    "Category": 4,
+    "CreatedAt": 0,
+    "Name": "Windows Phone"
+  },
+  "170": {
+    "Id": 170,
+    "Abbreviation": null,
+    "alternative_name": "Stadia",
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "Google Stadia"
+  },
+  "3": {
+    "Id": 3,
+    "Abbreviation": "Linux",
+    "alternative_name": "GNU/Linux",
+    "Category": 4,
+    "CreatedAt": 0,
+    "Name": "Linux"
+  },
+  "6": {
+    "Id": 6,
+    "Abbreviation": "PC",
+    "alternative_name": "mswin",
+    "Category": 4,
+    "CreatedAt": 0,
+    "Name": "PC (Microsoft Windows)"
+  },
+  "7": {
+    "Id": 7,
+    "Abbreviation": "PS1",
+    "alternative_name": null,
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "PlayStation"
+  },
+  "8": {
+    "Id": 8,
+    "Abbreviation": "PS2",
+    "alternative_name": "PS2",
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "PlayStation 2"
+  },
+  "9": {
+    "Id": 9,
+    "Abbreviation": "PS3",
+    "alternative_name": null,
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "PlayStation 3"
+  },
+  "19": {
+    "Id": 19,
+    "Abbreviation": "SNES",
+    "alternative_name": "SNES, Super Nintendo",
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "Super Nintendo Entertainment System (SNES)"
+  },
+  "25": {
+    "Id": 25,
+    "Abbreviation": "ACPC",
+    "alternative_name": "Colour Personal Computer",
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "Amstrad CPC"
+  },
+  "27": {
+    "Id": 27,
+    "Abbreviation": "MSX",
+    "alternative_name": null,
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "MSX"
+  },
+  "39": {
+    "Id": 39,
+    "Abbreviation": "iOS",
+    "alternative_name": null,
+    "Category": 4,
+    "CreatedAt": 0,
+    "Name": "iOS"
+  },
+  "75": {
+    "Id": 75,
+    "Abbreviation": "Apple][",
+    "alternative_name": "apple ][",
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "Apple II"
+  },
+  "80": {
+    "Id": 80,
+    "Abbreviation": "neogeoaes",
+    "alternative_name": "AES",
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "Neo Geo AES"
+  },
+  "94": {
+    "Id": 94,
+    "Abbreviation": "C+4",
+    "alternative_name": null,
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "Commodore Plus/4"
+  },
+  "96": {
+    "Id": 96,
+    "Abbreviation": "pdp10",
+    "alternative_name": null,
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "PDP-10"
+  },
+  "129": {
+    "Id": 129,
+    "Abbreviation": "ti-99",
+    "alternative_name": null,
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "Texas Instruments TI-99"
+  },
+  "133": {
+    "Id": 133,
+    "Abbreviation": null,
+    "alternative_name": "Magnavox Odyssey²",
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "Philips Videopac G7000"
+  },
+  "134": {
+    "Id": 134,
+    "Abbreviation": null,
+    "alternative_name": null,
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "Acorn Electron"
+  },
+  "51": {
+    "Id": 51,
+    "Abbreviation": "fds",
+    "alternative_name": "Famicom Disk System",
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "Family Computer Disk System"
+  },
+  "120": {
+    "Id": 120,
+    "Abbreviation": null,
+    "alternative_name": null,
+    "Category": 5,
+    "CreatedAt": 0,
+    "Name": "Neo Geo Pocket Color"
+  },
+  "165": {
+    "Id": 165,
+    "Abbreviation": "PlayStation VR",
+    "alternative_name": null,
+    "Category": 0,
+    "CreatedAt": 0,
+    "Name": "PlayStation VR"
+  },
+  "67": {
+    "Id": 67,
+    "Abbreviation": "intellivision",
+    "alternative_name": null,
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "Intellivision"
+  },
+  "136": {
+    "Id": 136,
+    "Abbreviation": null,
+    "alternative_name": null,
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "Neo Geo CD"
+  },
+  "71": {
+    "Id": 71,
+    "Abbreviation": "vic-20",
+    "alternative_name": null,
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "Commodore VIC-20"
+  },
+  "142": {
+    "Id": 142,
+    "Abbreviation": null,
+    "alternative_name": null,
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "PC-50X Family"
+  },
+  "144": {
+    "Id": 144,
+    "Abbreviation": null,
+    "alternative_name": null,
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "AY-3-8710"
+  },
+  "146": {
+    "Id": 146,
+    "Abbreviation": null,
+    "alternative_name": null,
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "AY-3-8605"
+  },
+  "88": {
+    "Id": 88,
+    "Abbreviation": "odyssey",
+    "alternative_name": "Magnavox Odyssey; Odysee; Odisea; Odissea",
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "Odyssey"
+  },
+  "90": {
+    "Id": 90,
+    "Abbreviation": "cpet",
+    "alternative_name": null,
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "Commodore PET"
+  },
+  "147": {
+    "Id": 147,
+    "Abbreviation": null,
+    "alternative_name": null,
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "AY-3-8606"
+  },
+  "91": {
+    "Id": 91,
+    "Abbreviation": "astrocade",
+    "alternative_name": null,
+    "Category": 0,
+    "CreatedAt": 0,
+    "Name": "Bally Astrocade"
+  },
+  "11": {
+    "Id": 11,
+    "Abbreviation": "XBOX",
+    "alternative_name": null,
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "Xbox"
+  },
+  "12": {
+    "Id": 12,
+    "Abbreviation": "X360",
+    "alternative_name": "xbx360",
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "Xbox 360"
+  },
+  "164": {
+    "Id": 164,
+    "Abbreviation": null,
+    "alternative_name": null,
+    "Category": 0,
+    "CreatedAt": 0,
+    "Name": "Daydream"
+  },
+  "48": {
+    "Id": 48,
+    "Abbreviation": "PS4",
+    "alternative_name": "PS4",
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "PlayStation 4"
+  },
+  "97": {
+    "Id": 97,
+    "Abbreviation": "pdp-8",
+    "alternative_name": null,
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "PDP-8"
+  },
+  "115": {
+    "Id": 115,
+    "Abbreviation": null,
+    "alternative_name": null,
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "Apple IIGS"
+  },
+  "118": {
+    "Id": 118,
+    "Abbreviation": null,
+    "alternative_name": null,
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "FM Towns"
+  },
+  "126": {
+    "Id": 126,
+    "Abbreviation": null,
+    "alternative_name": null,
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "TRS-80"
+  },
+  "128": {
+    "Id": 128,
+    "Abbreviation": "supergrafx",
+    "alternative_name": null,
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "PC Engine SuperGrafx"
+  },
+  "135": {
+    "Id": 135,
+    "Abbreviation": null,
+    "alternative_name": null,
+    "Category": 2,
+    "CreatedAt": 0,
+    "Name": "Hyper Neo Geo 64"
+  },
+  "98": {
+    "Id": 98,
+    "Abbreviation": "gt40",
+    "alternative_name": null,
+    "Category": 0,
+    "CreatedAt": 0,
+    "Name": "DEC GT40"
+  },
+  "105": {
+    "Id": 105,
+    "Abbreviation": "hp3000",
+    "alternative_name": null,
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "HP 3000"
+  },
+  "4": {
+    "Id": 4,
+    "Abbreviation": "N64",
+    "alternative_name": "N64",
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "Nintendo 64"
+  },
+  "36": {
+    "Id": 36,
+    "Abbreviation": "xla",
+    "alternative_name": null,
+    "Category": 3,
+    "CreatedAt": 0,
+    "Name": "Xbox Live Arcade"
+  },
+  "45": {
+    "Id": 45,
+    "Abbreviation": "psn",
+    "alternative_name": "PSN",
+    "Category": 3,
+    "CreatedAt": 0,
+    "Name": "PlayStation Network"
+  },
+  "46": {
+    "Id": 46,
+    "Abbreviation": "Vita",
+    "alternative_name": "PS Vita",
+    "Category": 5,
+    "CreatedAt": 0,
+    "Name": "PlayStation Vita"
+  },
+  "47": {
+    "Id": 47,
+    "Abbreviation": "VC",
+    "alternative_name": null,
+    "Category": 3,
+    "CreatedAt": 0,
+    "Name": "Virtual Console (Nintendo)"
+  },
+  "53": {
+    "Id": 53,
+    "Abbreviation": "MSX2",
+    "alternative_name": null,
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "MSX2"
+  },
+  "56": {
+    "Id": 56,
+    "Abbreviation": "WiiWare",
+    "alternative_name": null,
+    "Category": 0,
+    "CreatedAt": 0,
+    "Name": "WiiWare"
+  },
+  "57": {
+    "Id": 57,
+    "Abbreviation": "WonderSwan",
+    "alternative_name": null,
+    "Category": 5,
+    "CreatedAt": 0,
+    "Name": "WonderSwan"
+  },
+  "60": {
+    "Id": 60,
+    "Abbreviation": "Atari7800",
+    "alternative_name": "Atari 7800 ProSystem",
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "Atari 7800"
+  },
+  "62": {
+    "Id": 62,
+    "Abbreviation": "Jaguar",
+    "alternative_name": null,
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "Atari Jaguar"
+  },
+  "65": {
+    "Id": 65,
+    "Abbreviation": "Atari8bit",
+    "alternative_name": null,
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "Atari 8-bit"
+  },
+  "66": {
+    "Id": 66,
+    "Abbreviation": "Atari5200",
+    "alternative_name": "Atari 5200 SuperSystem",
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "Atari 5200"
+  },
+  "124": {
+    "Id": 124,
+    "Abbreviation": null,
+    "alternative_name": null,
+    "Category": 5,
+    "CreatedAt": 0,
+    "Name": "SwanCrystal"
+  },
+  "127": {
+    "Id": 127,
+    "Abbreviation": null,
+    "alternative_name": null,
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "Fairchild Channel F"
+  },
+  "131": {
+    "Id": 131,
+    "Abbreviation": null,
+    "alternative_name": "Nintendo Super Disc",
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "Nintendo PlayStation"
+  },
+  "148": {
+    "Id": 148,
+    "Abbreviation": null,
+    "alternative_name": null,
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "AY-3-8607"
+  },
+  "149": {
+    "Id": 149,
+    "Abbreviation": null,
+    "alternative_name": null,
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "PC-98"
+  },
+  "14": {
+    "Id": 14,
+    "Abbreviation": "Mac",
+    "alternative_name": "Mac OS",
+    "Category": 4,
+    "CreatedAt": 0,
+    "Name": "Mac"
+  },
+  "158": {
+    "Id": 158,
+    "Abbreviation": null,
+    "alternative_name": "Commodore Dynamic Total Vision",
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "Commodore CDTV"
+  },
+  "15": {
+    "Id": 15,
+    "Abbreviation": "C64",
+    "alternative_name": null,
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "Commodore C64/128"
+  },
+  "34": {
+    "Id": 34,
+    "Abbreviation": "Android",
+    "alternative_name": "Infocusa3",
+    "Category": 4,
+    "CreatedAt": 0,
+    "Name": "Android"
+  },
+  "35": {
+    "Id": 35,
+    "Abbreviation": "Game Gear",
+    "alternative_name": null,
+    "Category": 5,
+    "CreatedAt": 0,
+    "Name": "Sega Game Gear"
+  },
+  "87": {
+    "Id": 87,
+    "Abbreviation": "virtualboy",
+    "alternative_name": null,
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "Virtual Boy"
+  },
+  "92": {
+    "Id": 92,
+    "Abbreviation": "steam",
+    "alternative_name": null,
+    "Category": 4,
+    "CreatedAt": 0,
+    "Name": "SteamOS"
+  },
+  "159": {
+    "Id": 159,
+    "Abbreviation": null,
+    "alternative_name": null,
+    "Category": 5,
+    "CreatedAt": 0,
+    "Name": "Nintendo DSi"
+  },
+  "50": {
+    "Id": 50,
+    "Abbreviation": "3DO",
+    "alternative_name": null,
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "3DO Interactive Multiplayer"
+  },
+  "119": {
+    "Id": 119,
+    "Abbreviation": null,
+    "alternative_name": null,
+    "Category": 5,
+    "CreatedAt": 0,
+    "Name": "Neo Geo Pocket"
+  },
+  "52": {
+    "Id": 52,
+    "Abbreviation": "Arcade",
+    "alternative_name": null,
+    "Category": 0,
+    "CreatedAt": 0,
+    "Name": "Arcade"
+  },
+  "55": {
+    "Id": 55,
+    "Abbreviation": "Mobile",
+    "alternative_name": null,
+    "Category": 0,
+    "CreatedAt": 0,
+    "Name": "Mobile"
+  },
+  "58": {
+    "Id": 58,
+    "Abbreviation": "SFAM",
+    "alternative_name": "SFC",
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "Super Famicom"
+  },
+  "5": {
+    "Id": 5,
+    "Abbreviation": "Wii",
+    "alternative_name": "Revolution",
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "Wii"
+  },
+  "69": {
+    "Id": 69,
+    "Abbreviation": "bbcmicro",
+    "alternative_name": null,
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "BBC Microcomputer System"
+  },
+  "70": {
+    "Id": 70,
+    "Abbreviation": "vectrex",
+    "alternative_name": null,
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "Vectrex"
+  },
+  "89": {
+    "Id": 89,
+    "Abbreviation": "microvision",
+    "alternative_name": null,
+    "Category": 5,
+    "CreatedAt": 0,
+    "Name": "Microvision"
+  },
+  "95": {
+    "Id": 95,
+    "Abbreviation": "pdp1",
+    "alternative_name": "Programmed Data Processor-1",
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "PDP-1"
+  },
+  "108": {
+    "Id": 108,
+    "Abbreviation": "pdp11",
+    "alternative_name": null,
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "PDP-11"
+  },
+  "112": {
+    "Id": 112,
+    "Abbreviation": "microcomputer",
+    "alternative_name": null,
+    "Category": 0,
+    "CreatedAt": 0,
+    "Name": "Microcomputer"
+  },
+  "22": {
+    "Id": 22,
+    "Abbreviation": "GBC",
+    "alternative_name": null,
+    "Category": 5,
+    "CreatedAt": 0,
+    "Name": "Game Boy Color"
+  },
+  "23": {
+    "Id": 23,
+    "Abbreviation": "DC",
+    "alternative_name": null,
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "Dreamcast"
+  },
+  "26": {
+    "Id": 26,
+    "Abbreviation": "ZXS",
+    "alternative_name": null,
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "ZX Spectrum"
+  },
+  "33": {
+    "Id": 33,
+    "Abbreviation": "Game Boy",
+    "alternative_name": null,
+    "Category": 5,
+    "CreatedAt": 0,
+    "Name": "Game Boy"
+  },
+  "13": {
+    "Id": 13,
+    "Abbreviation": "DOS",
+    "alternative_name": null,
+    "Category": 4,
+    "CreatedAt": 0,
+    "Name": "PC DOS"
+  },
+  "38": {
+    "Id": 38,
+    "Abbreviation": "PSP",
+    "alternative_name": "PSP",
+    "Category": 5,
+    "CreatedAt": 0,
+    "Name": "PlayStation Portable"
+  },
+  "24": {
+    "Id": 24,
+    "Abbreviation": "GBA",
+    "alternative_name": "GBA",
+    "Category": 5,
+    "CreatedAt": 0,
+    "Name": "Game Boy Advance"
+  },
+  "41": {
+    "Id": 41,
+    "Abbreviation": "WiiU",
+    "alternative_name": null,
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "Wii U"
+  },
+  "42": {
+    "Id": 42,
+    "Abbreviation": "NGage",
+    "alternative_name": null,
+    "Category": 5,
+    "CreatedAt": 0,
+    "Name": "N-Gage"
+  },
+  "125": {
+    "Id": 125,
+    "Abbreviation": null,
+    "alternative_name": null,
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "PC-8801"
+  },
+  "138": {
+    "Id": 138,
+    "Abbreviation": null,
+    "alternative_name": null,
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "VC 4000"
+  },
+  "150": {
+    "Id": 150,
+    "Abbreviation": null,
+    "alternative_name": null,
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "Turbografx-16/PC Engine CD"
+  },
+  "155": {
+    "Id": 155,
+    "Abbreviation": null,
+    "alternative_name": null,
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "Tatung Einstein"
+  },
+  "166": {
+    "Id": 166,
+    "Abbreviation": null,
+    "alternative_name": null,
+    "Category": 5,
+    "CreatedAt": 0,
+    "Name": "Pokémon mini"
+  },
+  "30": {
+    "Id": 30,
+    "Abbreviation": "Sega32",
+    "alternative_name": null,
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "Sega 32X"
+  },
+  "137": {
+    "Id": 137,
+    "Abbreviation": null,
+    "alternative_name": null,
+    "Category": 5,
+    "CreatedAt": 0,
+    "Name": "New Nintendo 3DS"
+  },
+  "37": {
+    "Id": 37,
+    "Abbreviation": "3DS",
+    "alternative_name": "3DS",
+    "Category": 5,
+    "CreatedAt": 0,
+    "Name": "Nintendo 3DS"
+  },
+  "84": {
+    "Id": 84,
+    "Abbreviation": "sg1000",
+    "alternative_name": "Sega Game 1000",
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "SG-1000"
+  },
+  "130": {
+    "Id": 130,
+    "Abbreviation": "Switch",
+    "alternative_name": "NX",
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "Nintendo Switch"
+  },
+  "85": {
+    "Id": 85,
+    "Abbreviation": "donner30",
+    "alternative_name": null,
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "Donner Model 30"
+  },
+  "132": {
+    "Id": 132,
+    "Abbreviation": null,
+    "alternative_name": null,
+    "Category": 3,
+    "CreatedAt": 0,
+    "Name": "Amazon Fire TV"
+  },
+  "139": {
+    "Id": 139,
+    "Abbreviation": null,
+    "alternative_name": null,
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "1292 Advanced Programmable Video System"
+  },
+  "140": {
+    "Id": 140,
+    "Abbreviation": null,
+    "alternative_name": null,
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "AY-3-8500"
+  },
+  "152": {
+    "Id": 152,
+    "Abbreviation": null,
+    "alternative_name": null,
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "FM-7"
+  },
+  "153": {
+    "Id": 153,
+    "Abbreviation": null,
+    "alternative_name": null,
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "Dragon 32/64"
+  },
+  "154": {
+    "Id": 154,
+    "Abbreviation": null,
+    "alternative_name": null,
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "Amstrad PCW"
+  },
+  "101": {
+    "Id": 101,
+    "Abbreviation": "nimrod",
+    "alternative_name": null,
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "Ferranti Nimrod Computer"
+  },
+  "161": {
+    "Id": 161,
+    "Abbreviation": null,
+    "alternative_name": "WMR",
+    "Category": 0,
+    "CreatedAt": 0,
+    "Name": "Windows Mixed Reality"
+  },
+  "106": {
+    "Id": 106,
+    "Abbreviation": "sdssigma7",
+    "alternative_name": null,
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "SDS Sigma 7"
+  },
+  "109": {
+    "Id": 109,
+    "Abbreviation": "cdccyber70",
+    "alternative_name": null,
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "CDC Cyber 70"
+  },
+  "143": {
+    "Id": 143,
+    "Abbreviation": null,
+    "alternative_name": null,
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "AY-3-8760"
+  },
+  "49": {
+    "Id": 49,
+    "Abbreviation": "XONE",
+    "alternative_name": "Xbone",
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "Xbox One"
+  },
+  "78": {
+    "Id": 78,
+    "Abbreviation": "segacd",
+    "alternative_name": "Mega CD",
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "Sega CD"
+  },
+  "16": {
+    "Id": 16,
+    "Abbreviation": "Amiga",
+    "alternative_name": null,
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "Amiga"
+  },
+  "82": {
+    "Id": 82,
+    "Abbreviation": "browser",
+    "alternative_name": "Internet",
+    "Category": 3,
+    "CreatedAt": 0,
+    "Name": "Web browser"
+  },
+  "114": {
+    "Id": 114,
+    "Abbreviation": null,
+    "alternative_name": null,
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "Amiga CD32"
+  },
+  "116": {
+    "Id": 116,
+    "Abbreviation": null,
+    "alternative_name": null,
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "Acorn Archimedes"
+  },
+  "29": {
+    "Id": 29,
+    "Abbreviation": "Genesis",
+    "alternative_name": "Sega Genesis",
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "Sega Mega Drive/Genesis"
+  },
+  "145": {
+    "Id": 145,
+    "Abbreviation": null,
+    "alternative_name": null,
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "AY-3-8603"
+  },
+  "151": {
+    "Id": 151,
+    "Abbreviation": null,
+    "alternative_name": null,
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "TRS-80 Color Computer"
+  },
+  "167": {
+    "Id": 167,
+    "Abbreviation": null,
+    "alternative_name": null,
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "PlayStation 5"
+  },
+  "122": {
+    "Id": 122,
+    "Abbreviation": null,
+    "alternative_name": null,
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "Nuon"
+  },
+  "77": {
+    "Id": 77,
+    "Abbreviation": "x1",
+    "alternative_name": null,
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "Sharp X1"
+  },
+  "79": {
+    "Id": 79,
+    "Abbreviation": "neogeomvs",
+    "alternative_name": "Neo Geo Multi Video System",
+    "Category": 2,
+    "CreatedAt": 0,
+    "Name": "Neo Geo MVS"
+  },
+  "93": {
+    "Id": 93,
+    "Abbreviation": "C16",
+    "alternative_name": null,
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "Commodore 16"
+  },
+  "99": {
+    "Id": 99,
+    "Abbreviation": "famicom",
+    "alternative_name": "Famicom",
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "Family Computer (FAMICOM)"
+  },
+  "100": {
+    "Id": 100,
+    "Abbreviation": "analogueelectronics",
+    "alternative_name": null,
+    "Category": 0,
+    "CreatedAt": 0,
+    "Name": "Analogue electronics"
+  },
+  "102": {
+    "Id": 102,
+    "Abbreviation": "edsac",
+    "alternative_name": "Electronic Delay Storage Automatic Calculator",
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "EDSAC"
+  },
+  "103": {
+    "Id": 103,
+    "Abbreviation": "pdp-7",
+    "alternative_name": null,
+    "Category": 0,
+    "CreatedAt": 0,
+    "Name": "PDP-7"
+  },
+  "104": {
+    "Id": 104,
+    "Abbreviation": "hp2100",
+    "alternative_name": null,
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "HP 2100"
+  },
+  "107": {
+    "Id": 107,
+    "Abbreviation": "call-a-computer",
+    "alternative_name": null,
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "Call-A-Computer time-shared mainframe computer system"
+  },
+  "110": {
+    "Id": 110,
+    "Abbreviation": "plato",
+    "alternative_name": "Programmed Logic for Automatic Teaching Operations",
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "PLATO"
+  },
+  "18": {
+    "Id": 18,
+    "Abbreviation": "NES",
+    "alternative_name": "NES",
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "Nintendo Entertainment System (NES)"
+  },
+  "32": {
+    "Id": 32,
+    "Abbreviation": "Saturn",
+    "alternative_name": "JVC Saturn, Hi-Saturn, Samsung Saturn, V-Saturn",
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "Sega Saturn"
+  },
+  "59": {
+    "Id": 59,
+    "Abbreviation": "Atari2600",
+    "alternative_name": null,
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "Atari 2600"
+  },
+  "64": {
+    "Id": 64,
+    "Abbreviation": "SMS",
+    "alternative_name": "SMS",
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "Sega Master System"
+  },
+  "72": {
+    "Id": 72,
+    "Abbreviation": "Ouya",
+    "alternative_name": null,
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "Ouya"
+  },
+  "113": {
+    "Id": 113,
+    "Abbreviation": null,
+    "alternative_name": null,
+    "Category": 3,
+    "CreatedAt": 0,
+    "Name": "OnLive Game System"
+  },
+  "117": {
+    "Id": 117,
+    "Abbreviation": null,
+    "alternative_name": null,
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "Philips CD-i"
+  },
+  "121": {
+    "Id": 121,
+    "Abbreviation": null,
+    "alternative_name": null,
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "Sharp X68000"
+  },
+  "141": {
+    "Id": 141,
+    "Abbreviation": null,
+    "alternative_name": null,
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "AY-3-8610"
+  },
+  "157": {
+    "Id": 157,
+    "Abbreviation": null,
+    "alternative_name": null,
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "NEC PC-6000 Series"
+  },
+  "162": {
+    "Id": 162,
+    "Abbreviation": "Oculus VR",
+    "alternative_name": null,
+    "Category": 0,
+    "CreatedAt": 0,
+    "Name": "Oculus VR"
+  },
+  "21": {
+    "Id": 21,
+    "Abbreviation": "NGC",
+    "alternative_name": "Dolphin",
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "Nintendo GameCube"
+  },
+  "20": {
+    "Id": 20,
+    "Abbreviation": "NDS",
+    "alternative_name": "DS",
+    "Category": 5,
+    "CreatedAt": 0,
+    "Name": "Nintendo DS"
+  },
+  "61": {
+    "Id": 61,
+    "Abbreviation": "Lynx",
+    "alternative_name": null,
+    "Category": 5,
+    "CreatedAt": 0,
+    "Name": "Atari Lynx"
+  },
+  "63": {
+    "Id": 63,
+    "Abbreviation": "Atari-ST",
+    "alternative_name": null,
+    "Category": 6,
+    "CreatedAt": 0,
+    "Name": "Atari ST/STE"
+  },
+  "73": {
+    "Id": 73,
+    "Abbreviation": "blackberry",
+    "alternative_name": null,
+    "Category": 4,
+    "CreatedAt": 0,
+    "Name": "BlackBerry OS"
+  },
+  "86": {
+    "Id": 86,
+    "Abbreviation": "turbografx16",
+    "alternative_name": null,
+    "Category": 1,
+    "CreatedAt": 0,
+    "Name": "TurboGrafx-16/PC Engine"
+  },
+  "111": {
+    "Id": 111,
+    "Abbreviation": "imlac-pds1",
+    "alternative_name": null,
+    "Category": 0,
+    "CreatedAt": 0,
+    "Name": "Imlac PDS-1"
+  }
+}

@@ -1,0 +1,28 @@
+<mat-form-field floatLabel="never">
+  <button mat-icon-button matPrefix [matMenuTriggerFor]="menu">
+    <mat-icon>filter_list</mat-icon>
+  </button>
+  &nbsp;
+  <mat-menu #menu="matMenu">
+    <button mat-menu-item (click)="toggleShowOnlyFavorites()">
+      <mat-icon *ngIf="includeOnlyWanted">check</mat-icon>
+      <mat-icon *ngIf="!includeOnlyWanted"></mat-icon>
+      <span>Show Only Wanted</span>
+    </button>
+    <button mat-menu-item (click)="toggleHasCopies()">
+      <mat-icon *ngIf="includeWithCopies">check</mat-icon>
+      <mat-icon *ngIf="!includeWithCopies"></mat-icon>
+      <span>Has Copies</span>
+    </button>
+  </mat-menu>
+  <mat-label class="hint-text">
+    &nbsp;&nbsp;Enter game name, system or manufacturer
+  </mat-label>
+  <input
+    matInput
+    (keyup)="onSearch()"
+    [(ngModel)]="searchText"
+    autocomplete="off"
+  />
+  <mat-icon matSuffix>search</mat-icon>
+</mat-form-field>

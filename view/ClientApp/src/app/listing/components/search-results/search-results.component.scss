@@ -1,0 +1,72 @@
+.search-panel {
+  $row: calc(100% / 4);
+  margin: 5px auto 0 auto;
+  width: 99%;
+  display: grid;
+
+  .panel {
+    cursor: pointer;
+    display: flex;
+    background-color: #0a0808;
+    color: #f1f1f1;
+    align-content: stretch;
+
+    .cover-art {
+      text-align: center;
+      vertical-align: center;
+      min-width: 110px;
+    }
+
+    .detail {
+      font-size: 0.9em;
+
+      .game-title {
+        font-size: 1.3em;
+      }
+    }
+  }
+
+  .panel:hover {
+    background-color: #140a0a;
+  }
+
+  @media screen and (min-width: 1650px) {
+    grid-gap: calc(0.1%) calc(0.1%);
+    grid-template-rows: auto;
+    grid-template-columns: 24% 24% 24% 24%;
+
+    .panel {
+      padding: 2px 5px;
+      min-height: 150px;
+    }
+  }
+
+  @media screen and (min-width: 1025px) and (max-width: 1649px) {
+    grid-gap: calc(0.1%) calc(0.1%);
+    grid-template-rows: auto;
+    grid-template-columns: 33% 33% 33%;
+
+    .panel {
+      padding: 2px 5px;
+      min-height: 150px;
+    }
+  }
+
+  @media screen and (max-width: 1024px) {
+    grid-gap: 4px 0px;
+    grid-template-columns: repeat(auto-fit);
+
+    .panel {
+      min-height: 68px;
+
+      > div.cover-art {
+        padding: 2px;
+        width: 64px;
+      }
+
+      > div.details {
+        padding-left: 5px;
+      }
+    }
+  }
+}

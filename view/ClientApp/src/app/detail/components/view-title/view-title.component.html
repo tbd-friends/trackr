@@ -1,0 +1,65 @@
+<mat-toolbar *ngIf="title">
+  <button
+    mat-raised-button
+    color="primary"
+    href="javascript:void(0)"
+    (click)="goBack()"
+  >
+    <mat-icon>keyboard_arrow_left</mat-icon><span>Back</span>
+  </button>
+  <span class="push-right"></span>
+  <ng-container *appPermit="['administrator']">
+    <button mat-icon-button color="primary" (click)="toggleIsWanted()">
+      <mat-icon *ngIf="!title.isWanted">favorite_border</mat-icon>
+      <mat-icon *ngIf="title.isWanted">favorite</mat-icon>
+    </button>
+  </ng-container>
+</mat-toolbar>
+<div>
+  <mat-card *ngIf="title">
+    <mat-card-content>
+      <div *ngIf="title.coverArtUrl" class="layout-game-title">
+        <div class="cover-art">
+          <img *ngIf="title.coverArtUrl" src="{{ coverArt }}" />
+          <ng-container *appPermit="['administrator']">
+            <button
+              mat-icon-button
+              color="primary"
+              (click)="deleteCoverArt(gameId)"
+              title="Remove Cover Art"
+            >
+              <mat-icon>delete</mat-icon>
+            </button>
+          </ng-container>
+        </div>
+      </div>
+      <div class="title-info">
+        <h2>
+          {{ title.name }}
+          <span *ngIf="title.yearOfRelease > 0"
+            >({{ title.yearOfRelease }})</span
+          >
+        </h2>
+        <span>
+          {{ title.console }}
+        </span>
+      </div>
+      <ng-container *appPermit="['administrator']">
+        <div *ngIf="!title.coverArtUrl">
+          <h3>Matching Covers</h3>
+          <div class="cover-matches">
+            <div *ngFor="let match of matches | async" class="cover-match">
+              <img [src]="'https:' + match" (click)="selectCoverArt(match)" />
+            </div>
+          </div>
+        </div>
+      </ng-container>
+    </mat-card-content>
+  </mat-card>
+  <br />
+  <app-game-copies
+    *ngIf="title"
+    [id]="gameId"
+    [name]="title.name"
+  ></app-game-copies>
+</div>

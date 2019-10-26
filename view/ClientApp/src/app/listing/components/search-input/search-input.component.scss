@@ -1,0 +1,21 @@
+mat-form-field {
+  font-size: 0.9em;
+  vertical-align: bottom;
+  width: 50%;
+
+  mat-icon {
+    line-height: 0.8rem;
+    vertical-align: middle;
+    opacity: 0.65;
+  }
+
+  mat-hint {
+    color: #f1f1f1;
+    font-size: 0.8rem;
+  }
+
+  .hint-text {
+    font-size: 0.8em;
+    color: #a9a9a9;
+  }
+}

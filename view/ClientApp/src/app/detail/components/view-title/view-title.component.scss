@@ -1,0 +1,61 @@
+.navigation-header {
+  margin-left: 10px;
+  font-size: 1.1em;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+mat-toolbar {
+  .push-right {
+    flex: 1 0.5 auto;
+  }
+}
+
+.cover-matches {
+  display: grid;
+  grid-gap: 5px;
+  grid-auto-flow: row;
+
+  @media screen and (min-width: 1200px) {
+    grid-template: repeat(1, 1fr) / repeat(12, 1fr);
+  }
+
+  @media screen and (min-width: 900px) and (max-width: 1199px) {
+    grid-template: repeat(1, 1fr) / repeat(8, 1fr);
+  }
+
+  @media screen and (min-width: 300px) and (max-width: 899px) {
+    grid-template: repeat(1, 1fr) / repeat(4, 1fr);
+  }
+
+  .cover-match {
+    margin: 5px 0;
+    filter: grayscale(0.9);
+  }
+
+  .cover-match:hover {
+    cursor: pointer;
+    filter: grayscale(0) brightness(1);
+  }
+}
+
+mat-card-title {
+  display: flex;
+  flex: 0.75;
+
+  span {
+    flex: 0.25;
+  }
+}
+
+.layout-game-title {
+  display: flex;
+
+  & div.cover-art {
+    flex: 0.1;
+  }
+
+  & div.title-info {
+    flex: 1;
+  }
+}

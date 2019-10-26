@@ -1,0 +1,24 @@
+<mat-card>
+  <div *ngIf="results | async as games" class="search-panel">
+    <div *ngFor="let result of games" class="panel" (click)="navigate(result)">
+      <div class="cover-art" *ngIf="coverArt[result.gameId]">
+        <img [src]="coverArt[result.gameId] | async" />
+      </div>
+      <div class="detail">
+        <span class="game-title">{{ result.title }}</span>
+        <br />
+        <span>{{ result.gameConsole }}</span>
+        <br />
+        <span class="game-copies"
+          >{{ result.count }}
+          {{
+            pluralize('copies', 'copy', result.count == 0 || result.count > 1)
+          }}</span
+        >
+        <div class="others" title="Wanted">
+          <mat-icon *ngIf="result.isWanted">favorite</mat-icon>
+        </div>
+      </div>
+    </div>
+  </div>
+</mat-card>

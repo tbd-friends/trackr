@@ -1,0 +1,38 @@
+<mat-card>
+  <mat-card-content>
+    <mat-toolbar>
+      <h4>Copies</h4>
+      <span class="push-right"></span>
+      <ng-container *appPermit="['administrator']">
+        <button mat-raised-button color="primary" (click)="addGameCopy()">
+          <span>Add Game Copy</span>
+          <mat-icon>add</mat-icon>
+        </button>
+      </ng-container>
+    </mat-toolbar>
+
+    <table mat-table [dataSource]="copies" class="mat-elevation-z8">
+      <ng-container matColumnDef="tags">
+        <th mat-header-cell *matHeaderCellDef>Tags</th>
+        <td mat-cell *matCellDef="let element">
+          {{ join(element.tags) }}
+        </td>
+      </ng-container>
+
+      <ng-container matColumnDef="pricePaid">
+        <th mat-header-cell *matHeaderCellDef>Price Paid</th>
+        <td mat-cell *matCellDef="let element">{{ element.pricePaid }}</td>
+      </ng-container>
+
+      <ng-container matColumnDef="purchasedOn">
+        <th mat-header-cell *matHeaderCellDef>Purchased On</th>
+        <td mat-cell *matCellDef="let element">
+          {{ element.purchasedOn | date }}
+        </td>
+      </ng-container>
+
+      <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+      <tr mat-row *matRowDef="let row; columns: displayedColumns"></tr>
+    </table>
+  </mat-card-content>
+</mat-card>
